@@ -1,4 +1,4 @@
-# Chronos — Aplikasi Produktivitas Glassmorphism Premium
+# Chronos — Aplikasi Produktivitas
 
 Chronos adalah aplikasi produktivitas desktop berbasis **Electron** + **React (TypeScript)** + **Vite** yang dirancang dengan estetika visual **macOS Glassmorphism** yang mewah. Aplikasi ini mengkombinasikan pengatur tugas harian (*Task Manager*) dengan pembuat laporan mingguan otomatis (*Weekly Logbook Report Maker*) yang dilengkapi fitur formalisasi teks berbasis AI lokal yang aman serta ekspor dokumen kustom multi-format (PDF, Excel, Word).
 
